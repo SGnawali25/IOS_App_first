@@ -23,3 +23,6 @@
 
 EcoChain
 EcoChain is an innovative app that uses IoT sensors to monitor trash bin fill capacity and waste categories (recyclables, organic, general). This real-time data helps optimize trash collection routes, reducing unnecessary trips and saving fuel. By accurately identifying waste types, EcoChain also improves waste separation, lowering processing costs. The app provides valuable insights for municipalities and businesses, helping them manage resources more efficiently and promoting sustainable practices. With features like community engagement and gamified recycling, EcoChain makes waste management smarter and more eco-friendly.
+
+App:
+https://www.loom.com/share/0533b6181ddd40a487ade7ab7d4c2ad0
